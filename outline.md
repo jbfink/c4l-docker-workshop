@@ -10,4 +10,11 @@
 
 3. Difference between virtualization frameworks (software level vs.)
 
+4. Install docker/boot2docker.
 
+5. getting started: docker ubuntu
+
+
+
+
+ 
