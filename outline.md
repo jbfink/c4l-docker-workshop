@@ -1,10 +1,13 @@
-0. Equipment check
- a) 64 bit linux? good to go! (probably)
- b) OSX/windows? boot2docker! 
- c) other? (urp.)
+1. Equipment check
 
-1. Introduction to virtualization. (if people need it)
+ * 64 bit linux? good to go! (probably)
 
-2. Difference between virtualization frameworks (software level vs.)
+ * OSX/windows? boot2docker! 
+
+ * other? (urp.)
+
+2. Introduction to virtualization. (if people need it)
+
+3. Difference between virtualization frameworks (software level vs.)
 
 
