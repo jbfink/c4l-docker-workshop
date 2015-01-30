@@ -27,3 +27,11 @@
  * How to kill containers/restart containers/remove images and containers
 
  * container names
+
+8. Interactive versus -d 
+
+9. Dockerfile
+ 
+ * Intro to Dockerfile
+ 
+ * Anatomy of Dockerfile (docker-wordpress?) 
