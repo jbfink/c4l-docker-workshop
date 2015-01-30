@@ -35,3 +35,15 @@
  * Intro to Dockerfile
  
  * Anatomy of Dockerfile (docker-wordpress?) 
+
+ * docker build
+
+10. Docker Hub
+
+11. Docker in production
+
+ * fig?
+
+ * coreos / other bare?
+
+ * dokku / docker push?
