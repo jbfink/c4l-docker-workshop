@@ -12,9 +12,18 @@
 
 4. Install docker/boot2docker.
 
-5. getting started: docker ubuntu
+5. Docker-the-daemon, docker as go app, AUFS / lxc (maybe?) 
 
+6. getting started: docker run -it ubuntu /bin/bash
 
+ * How is it like bare metal? Like Virtualbox/Vagrant? How is it unlike?
 
+7. Intro to basic docker terms and workflow 
 
- 
+ * What is a image? What is a container?
+
+ * commits and tags
+
+ * How to kill containers/restart containers/remove images and containers
+
+ * container names
