@@ -40,6 +40,10 @@
 
 10. Docker Hub
 
+ * docker pull
+
+ * docker push
+
 11. Docker in production
 
 12. Docker ecosystem
