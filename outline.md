@@ -42,6 +42,8 @@
 
 11. Docker in production
 
+12. Docker ecosystem
+
  * fig?
 
  * coreos / other bare?
