@@ -1,0 +1,3 @@
+[submodule "docker-wordpress"]
+	path = docker-wordpress
+	url = https://github.com/jbfink/docker-wordpress
