@@ -14,7 +14,10 @@
 
 5. Docker-the-daemon, docker as go app, AUFS / lxc (maybe?) 
 
+
 6. getting started: docker run -it ubuntu /bin/bash
+
+(6 for C4L - docker run -it <some ip>:5000/ubuntu /bin/bash
 
  * How is it like bare metal? Like Virtualbox/Vagrant? How is it unlike?
 
